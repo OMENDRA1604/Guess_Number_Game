@@ -30,7 +30,7 @@ When the game ends (by guessing correctly or exhausting attempts), a **"New Game
 
 ## 🚀 Live Preview
 
-👉 [**Play Now**](https://omendra1604.github.io/Guess_Number_Game/) *(If deployed on GitHub Pages)*  
+👉 [**Play Now**](https://omendra1604.github.io/Guess_Number_Game/) 
 or  
 🖥️ Open `index.html` locally in your browser.
 
